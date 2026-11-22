@@ -13,7 +13,7 @@
 ### [playwright-demo](https://github.com/Rahozin-Dmytro/playwright-demo)
 UI + API test automation with **Playwright and TypeScript**.
 
-- 15 UI tests ([saucedemo](https://www.saucedemo.com)) and 13 API tests ([dummyjson](https://dummyjson.com))
+- UI tests ([saucedemo](https://www.saucedemo.com)) and API tests ([dummyjson](https://dummyjson.com))
 - Page Object Model, custom fixtures, login once via `storageState`
 - `@smoke` / `@regression` tags, HTML and JUnit reports
 - CI with **GitHub Actions** and **Jenkins in Docker**
